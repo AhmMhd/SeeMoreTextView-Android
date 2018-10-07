@@ -49,7 +49,32 @@ set max length for the textview after which "seemore" will appear
 seemoreTv.setTextMaxLength(300) //default is 250 charachters
 
 ```
+toggle the state of the textview using:
 
+```
+seemoreTv.toggle()
+```
+
+expand or collapse the textview using:
+
+```
+seemoreTv.expandText(true|false)
+```
+
+set seemore seeless text color using:
+```
+seemoreTv.setSeeMoreTextColor(R,color.red) //default is #3F51B5
+```
+
+set seemore|seeless text using:
+
+```
+seemoreTv.setSeeMoreText("ShowMore","ShowLess") // default is "SeeMore" && "SeeLess"
+```
+
+
+# NOTE
+Tested with recyclerview, works fine
 
 
   
