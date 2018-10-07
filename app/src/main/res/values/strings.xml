@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SeeMoreTextviewSample</string>
+    <string name="longtext"></string>
+    <string name="small_text">Not ver lengthy text.</string>
+</resources>
