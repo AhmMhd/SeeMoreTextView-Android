@@ -1,3 +1,5 @@
+#PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
+
 # SeeMoreTextView-Android
 
 To get SeeMoreTextView library into your build:
